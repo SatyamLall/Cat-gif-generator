@@ -1,0 +1,33 @@
+* {
+    max-width: 1366px;
+    margin: 0;
+    padding: 0;
+    /*    overflow: hidden;*/
+}
+
+body {
+    background-color: black;
+}
+
+.container1 {
+    margin: 100px auto;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+button {
+    margin-top: 50px;
+    background-color: slategray;
+    font-family: arial;
+    font-size: 30px;
+    padding: 10px;
+}
+
+@media {
+    .container {
+        width: 100%;
+    }
+}
